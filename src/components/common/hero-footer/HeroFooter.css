@@ -1,0 +1,44 @@
+.footer-column-header {
+  color: #ff6600;
+  font-weight: 600;
+}
+
+.footer-column-three-btn {
+  background-color: #01173f;
+  border: none;
+}
+.footer-column-three-btn:hover {
+  background-color: #01173f;
+  border: none;
+}
+
+.fa-arrow-footer {
+  rotate: 180deg;
+  color: #ff6600;
+}
+
+.fa-icon-footer {
+  color: #ff6600;
+  padding-right: 10px;
+}
+
+.footer-column-three-btn-book {
+  background-color: #ff6600;
+  border: none;
+}
+.footer-column-three-btn-book:hover {
+  background-color: #ff6600;
+  border: none;
+  scale: 1.015;
+}
+
+.footer-quick-link {
+  color: #000000;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.footer-quick-link-address {
+  color: #000000;
+  text-decoration: none;
+}

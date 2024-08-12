@@ -1,0 +1,176 @@
+@media (min-width: 768px) and (max-width: 991.98px) {
+  .tablet-width-75 {
+    width: 80%;
+    margin: 0 auto;
+  }
+}
+
+#book-now-btn-landing-page {
+  background-color: #ff6600;
+  border: none !important;
+  font-weight: 600;
+}
+#book-now-btn-landing-page:hover {
+  scale: 1.015;
+  transition: 120ms;
+}
+
+#download-app-btn-landing-page {
+  border-color: #ff6600;
+  color: #ff6600;
+  background-color: transparent;
+  font-weight: 600;
+}
+
+/* Download btn hover effect
+#download-app-btn-landing-page:hover{
+    background-color: #ff6600;
+    transition: 120ms;
+    color: #ffffff;
+} */
+
+#hero-section-header-text-no-one {
+  color: #ff6600;
+  font-weight: 800;
+  font-size: larger;
+}
+
+#hero-section-header-text {
+  font-weight: 700;
+}
+
+.hero-caption-text {
+  font-weight: 400;
+}
+
+#hero-section-one {
+  background-color: snow;
+}
+
+#section-two-part-two-text-caption {
+  font-size: 2em;
+}
+
+#lp-section-two-r-caption {
+  font-weight: 700;
+}
+
+.location-icon-section-two {
+  color: #ff6600;
+}
+
+.location-icon-section-two-caption {
+  font-weight: 500;
+}
+
+#hero-section-three-part-one-text {
+  color: #ff6600;
+}
+
+.hero-section-three-card-icons {
+  color: #ff6600;
+}
+
+.hero-section-three-card-icons-container {
+  background-color: #fff4ef;
+}
+
+.profile-pic-textimonials-container {
+  background-color: #fff4ef;
+}
+
+.scroll-container-maxi {
+  overflow-x: auto; /* Enable horizontal scrolling */
+  -ms-overflow-style: none; /* Hide scrollbar for Internet Explorer and Edge */
+  scrollbar-width: none; /* Hide scrollbar for Firefox */
+}
+
+.scroll-container-maxi::-webkit-scrollbar {
+  display: none; /* Hide scrollbar for Chrome, Safari, and Opera */
+}
+
+.bg-testtimonials-color {
+  background-color: #010a26;
+}
+
+.card-texstimonials-transparent {
+  background-color: rgba(154, 164, 191, 0.526); /* Snow color with opacity */
+  backdrop-filter: blur(10px); /* Apply a 10px blur effect to the background */
+  -webkit-backdrop-filter: blur(10px); /* For Safari support */
+  color: rgba(255, 255, 255, 0.8);
+}
+
+#faq-main-body {
+  background-color: transparent;
+}
+
+#faq-main-body-inside {
+  background-color: transparent;
+}
+
+.accordion-button {
+  background-color: transparent;
+  border: none;
+}
+
+.accordion-body {
+  background-color: transparent;
+}
+
+.accordion-item {
+  border: none;
+}
+
+#div-accordian {
+  border-top: 0.5px solid black;
+}
+#div-accordian-last {
+  border-top: 0.5px solid black;
+  border-bottom: 0.5px solid black;
+}
+
+.accordion-button:not(.collapsed) {
+  background-color: transparent;
+  color: inherit;
+  border-color: transparent;
+}
+
+.custom-button {
+  width: auto; /* Default width */
+}
+
+/* Form button width */
+/* @media (max-width: 767.98px) {
+  .custom-button {
+    width: 100%; 
+  }
+} */
+
+.form-message-submit-btn {
+  background-color: #ff6600;
+  border: none;
+}
+.form-message-submit-btn:hover {
+  background-color: #ff6600;
+  border: none;
+  scale: 1.015;
+  transition: 120ms;
+}
+
+.placeholder-label {
+  background-color: transparent;
+}
+
+.transparent-input {
+  background-color: transparent;
+  border: none;
+}
+
+.transparent-input:focus {
+  background-color: transparent;
+  outline: transparent;
+}
+
+#form-field-container {
+  border-bottom: 1px solid #000000;
+}

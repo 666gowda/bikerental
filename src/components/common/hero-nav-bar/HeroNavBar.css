@@ -1,0 +1,63 @@
+#home-page-login-book-btn, #offcanvas-login-book-btn{
+    background-color: #ff6600;
+    border: none !important;
+    font-weight: 600;
+}
+#home-page-login-book-btn:hover, #offcanvas-login-book-btn:hover{
+    scale: 1.015;
+    transition: 120ms;
+}
+
+#home-page-login-signup-btn, #offcanvas-login-signup-btn{
+    border:1px solid #ff6600;
+    color: #ff6600;
+    background-color: transparent;
+    font-weight: 600;
+}
+
+#profile-name{
+    color: #ff6600;
+}
+
+#lg-md-navbar-items{
+    font-weight: 500;
+}
+#lg-md-navbar-items:hover{
+    color: #fda53e;
+    transition: 120ms;
+}
+
+#offcanvas-kyc-custom-notice{
+    background-color: #fda53e;
+    color: white;
+}
+
+#navbar-burger{
+    border: none !important;
+    scale: 0.85;
+}
+
+#offcanvas-navitems{
+    font-weight: 500;
+}
+
+#nav-bar-main-area{
+    background-color: rgba(255, 250, 250, 0); /* Snow color with opacity */
+    backdrop-filter: blur(10px); /* Apply a 10px blur effect to the background */
+    -webkit-backdrop-filter: blur(10px); /* For Safari support */
+}
+
+.offcanvas-navbar{
+    background-color: rgba(255, 255, 255, 0.80); /* Snow color with opacity */
+    backdrop-filter: blur(10px); /* Apply a 10px blur effect to the background */
+    -webkit-backdrop-filter: blur(10px); /* For Safari support */
+}
+
+.nav-icon-offset-list{
+    color: #ff6600;
+}
+
+.offset-navbar-links-container:hover{
+    background-color: rgba(255, 250, 250);
+}
+
