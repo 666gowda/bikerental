@@ -40,7 +40,7 @@ export default function LandingPage() {
                 <div>
                   <p class="p-large hero-caption-text">
                     Your Ultimate Solution for Bike and Scooter Rentals in
-                    Odisha - Explore Cities with Ease!
+                    Odisha - Explore Cities with Ease!!!!
                   </p>
                 </div>
                 <div>
